@@ -1,0 +1,5 @@
+Lionel MESSI;1000
+Edson Arantes PELÉ;900
+Christiano RONALDO;700
+Zineddine ZIDANE;400
+Diego MARDONA;100
