@@ -34,33 +34,6 @@ Ce projet permet notamment de travailler sur :
 
 ---
 
-## Structure du projet
-
-```text
-tp-data-cleaning/
-│
-├── create_dataset/
-│   ├── 2026-B99-MFB01-MetaDonnees.sql
-│   ├── 2026-B99-MFB02-BiblioFoncProc.sql
-│   ├── 2026-B99-MFB03-CreatInsertDonGCF-SQL.sql
-│   ├── 2026-B99-MFB04-ManipDonGCF-SQLAvance.sql
-│   ├── 2026-B99-MFB05-ManipDonGCF-SQLLOADER.sql
-│   └── 2026-B99-MFB06-DataAnomaly-Visu-Clean.sql
-│
-├── procedures_complementaires/
-│   └── ...
-│
-├── docs/
-│   └── ...
-│
-├── logs/
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## Description des scripts
 
 | Script | Description |
